@@ -1,0 +1,12 @@
+input.currency {
+    text-align: right;
+  }
+  .form-label {
+    font-weight: 500;
+  }
+  .card-body .row + .row {
+    margin-top: 1rem;
+  }
+  .border {
+    border-radius: 0.5rem;
+  }
